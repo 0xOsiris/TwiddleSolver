@@ -1,4 +1,11 @@
-# TwiddleSolver
+```
+___________       .__    .___  .___.__          
+\__    ___/_  _  _|__| __| _/__| _/|  |   ____  
+  |    |  \ \/ \/ /  |/ __ |/ __ | |  | _/ __ \ 
+  |    |   \     /|  / /_/ / /_/ | |  |_\  ___/ 
+  |____|    \/\_/ |__\____ \____ | |____/\___  >
+                          \/    \/           \/ 
+```
 Breadth First search solution to solve 3x3 twiddle board implemented in Java. A link to a demo of the game Twiddle can be found below.
 
 https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/twiddle.html
@@ -24,3 +31,4 @@ Main function, this is will prompt you to enter an initial board state to be sol
 
 # Node
 Defines all of the logic on C/CC moves and their respective transformation logic on the board state.
+
